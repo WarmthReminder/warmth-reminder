@@ -16,4 +16,4 @@ WarmthReminder is a Kotlin-based countdown and reminder application. It helps yo
 
 ## License:
 
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+This project is licensed under the MIT License file for details.
